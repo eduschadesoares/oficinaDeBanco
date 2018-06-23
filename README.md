@@ -3,7 +3,7 @@
 ### 1º Bimestre:
 #### Algoritmos de Ordenação
 * Engenharia Reversa e Backups
-* Sistema Gerencial de Banco de Dados Distribuído.pdf
+* Sistema Gerencial de Banco de Dados Distribuído
 -----
 
 ### 2º Bimestre:
