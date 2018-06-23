@@ -1,0 +1,21 @@
+#!/bin/bash
+
+#BACKUP_DIR= "/home/"
+
+BACKUP_DATE="`date +%Y-%m-%d_%H-%M-%S`";
+
+#sudo su postgres
+
+#echo "Insira o nome do banco"
+
+#read banco
+
+#read nome
+
+#$BACKUP_DIR/teste.txt
+
+#sudo pg_dump -h localhost -U postgres -w -p 5432 Banco > /home/$BACKUP_DATE.sql
+
+sudo pg_dump --dbname=postgres://postgres:senha@localhost:5432/Banco > /home/$BACKUP_DATE.sql
+
+#sudo -u pg_dump $banco > $BACKUP_DIR/backup.sql
