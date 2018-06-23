@@ -3,6 +3,7 @@
 ### 1º Bimestre:
 * Engenharia Reversa e Backups
 * Sistema Gerencial de Banco de Dados Distribuído
+
 -----
 
 ### 2º Bimestre:
@@ -14,6 +15,8 @@
 ### 3º Bimestre:
 *
 *
+
+-----
 
 ### 4º Bimestre:
 *
