@@ -9,7 +9,13 @@
 ### 2º Bimestre:
 * Business Intelligence
 * OrientDB (Bancos NO SQL)
-
+* Web Service
+  - SOA
+  - SOAP
+  - WSOL
+  - UDDI
+  - RESTFUL
+  
 -----
 
 ### 3º Bimestre:
