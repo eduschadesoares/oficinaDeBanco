@@ -7,9 +7,9 @@
 -----
 
 ### 2º Bimestre:
-* Business Intelligence
-* OrientDB (Bancos NO SQL) ([Prática](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/OrientDB.pdf))
-* Web Service ([Prática](https://github.com/eduschadesoares/oficinaDeBanco/tree/master/Apresenta%C3%A7%C3%B5es%20P%C5%95aticas/Web%20Service))
+* Business Intelligence ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/Business%20Intelligence%20-%20BI.pdf))
+* OrientDB (Bancos NO SQL) ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/OrientDB.pdf))
+* Web Service ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/tree/master/Apresenta%C3%A7%C3%B5es%20P%C5%95aticas/Web%20Service))
   - SOA
   - SOAP
   - WSOL
