@@ -1,7 +1,7 @@
 # Oficina de Banco de Dados (3º Ano)
 
 ### 1º Bimestre:
-* Engenharia Reversa e Backups (Prática - [Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/Engenharia%20Reversa%20e%20Backups.pdf))
+* Engenharia Reversa e Backups ([Prática](https://github.com/eduschadesoares/oficinaDeBanco/tree/master/Apresenta%C3%A7%C3%B5es%20P%C5%95aticas/Eng%20Reversa%20e%20Backup) - [Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/Engenharia%20Reversa%20e%20Backups.pdf))
 * Sistema Gerencial de Banco de Dados Distribuído
 
 -----
