@@ -19,7 +19,7 @@
 -----
 
 ### 3º Bimestre:
-* SQLITE ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/SGBD%20para%20Dispositivos%20M%C3%B3veis.pdf))
+* SGBD para Dispositivos Móveis ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/SGBD%20para%20Dispositivos%20M%C3%B3veis.pdf))
 
 -----
 
