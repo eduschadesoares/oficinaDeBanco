@@ -23,5 +23,5 @@
 -----
 
 ### 4º Bimestre:
-*
-*
+* Auditoria ([Prática]() - [Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/4%C2%BA%20Bimestre/Auditoria.pdf))
+* Failover
