@@ -16,6 +16,9 @@
 
 ### 3º Bimestre:
 * SGBD para Dispositivos Móveis ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/SGBD%20para%20Dispositivos%20M%C3%B3veis.pdf))
+* Consulta Paralela ([Prática]() - [Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/3%C2%BA%20Bimestre/Consulta%20Paralela.pdf))
+* Big Data ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/3%C2%BA%20Bimestre/Big%20Data.pdf))
+* Big Data 2 - GlusterFS ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/3%C2%BA%20Bimestre/Big%20Data%202%20-%20GlusterFS.pdf))
 
 -----
 
