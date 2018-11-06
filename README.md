@@ -1,15 +1,15 @@
 # Oficina de Banco de Dados (3º Ano)
 
 ### 1º Bimestre:
-* Engenharia Reversa e Backups ([Prática](https://github.com/eduschadesoares/oficinaDeBanco/tree/master/Apresenta%C3%A7%C3%B5es%20P%C5%95aticas/Eng%20Reversa%20e%20Backup) - [Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/Engenharia%20Reversa%20e%20Backups.pdf))
-* Sistema Gerencial de Banco de Dados Distribuído ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/Sistema%20Gerencial%20de%20Banco%20de%20Dados%20Distribu%C3%ADdo.pdf))
+* Engenharia Reversa e Backups ([Prática](https://github.com/eduschadesoares/oficinaDeBanco/tree/master/Apresenta%C3%A7%C3%B5es%20P%C5%95aticas/Eng%20Reversa%20e%20Backup) - [Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/1%C2%BA%20Bimestre/Engenharia%20Reversa%20e%20Backups.pdf))
+* Sistema Gerencial de Banco de Dados Distribuído ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/1%C2%BA%20Bimestre/Sistema%20Gerencial%20de%20Banco%20de%20Dados%20Distribu%C3%ADdo.pdf))
 
 -----
 
 ### 2º Bimestre:
-* Business Intelligence ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/Business%20Intelligence%20-%20BI.pdf))
-* OrientDB (Bancos NO SQL) ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/OrientDB.pdf))
-* Web Service ([Prática](https://github.com/eduschadesoares/oficinaDeBanco/tree/master/Apresenta%C3%A7%C3%B5es%20P%C5%95aticas/Web%20Service) - [Teórica](https://github.com/eduschadesoares/oficinaDeBanco/tree/master/Apresenta%C3%A7%C3%B5es%20P%C5%95aticas/Web%20Service))
+* Business Intelligence ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/2%C2%BA%20Bimestre/Business%20Intelligence%20-%20BI.pdf))
+* OrientDB (Bancos NO SQL) ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/2%C2%BA%20Bimestre/OrientDB.pdf))
+* Web Service ([Prática](https://github.com/eduschadesoares/oficinaDeBanco/tree/master/Apresenta%C3%A7%C3%B5es%20P%C5%95aticas/Web%20Service) - [Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/2%C2%BA%20Bimestre/Web%20Services.pdf))
   - (SOA, SOAP, WSOL, UDDI, RESTFUL)
   
 -----
