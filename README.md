@@ -1,3 +1,5 @@
+<img align="right" width="1248" height="702" src="https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Media/2.jpeg">
+
 # Oficina de Banco de Dados (3º Ano)
 
 ### 1º Bimestre:
