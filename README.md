@@ -1,4 +1,4 @@
-<img align="right" width="310" height="120" src="https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Media/2.jpeg">
+<img align="right" width="310" height="170" src="https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Media/2.jpeg">
 
 # Oficina de Banco de Dados (3º Ano)
 
