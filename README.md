@@ -7,7 +7,7 @@
 # 
 
 ### Conteúdo refente à matéria de Oficina de Banco de Dados
-Curso do 3º ano de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/2016/bachareleminformatica.pdf) da *[Universidade Estadual de Ponta Grossa](https://portal.uepg.br/)*
+Curso de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/2016/bachareleminformatica.pdf) da *[Universidade Estadual de Ponta Grossa](https://portal.uepg.br/)*
 
 #
 
