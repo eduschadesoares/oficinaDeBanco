@@ -31,3 +31,8 @@
 ### 4º Bimestre:
 * Auditoria ([Prática](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Media/4.gif) - [Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/4%C2%BA%20Bimestre/Auditoria.pdf))
 * Failover ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/4%C2%BA%20Bimestre/Failover.pdf))
+
+#
+
+### Exame:
+* SGBD Paralelo - GRID ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/Exame/SGBD%20Paralelo%20-%20GRID.pdf))
