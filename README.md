@@ -53,7 +53,7 @@ Curso do 3º ano de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/
 
 #
 
-<img width="300" height="300" src="https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Media/5.jpg">
+<img align="middle" width="300" height="300" src="https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Media/5.jpg">
 
 #
 
