@@ -53,10 +53,4 @@ Curso do 3º ano de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/
 
 #
 
-
-
-#
-
 *~~ps: ninguém nunca sabe o que é para ser feito nos trabalhos~~*
-
-<img margin="auto" width="300" height="300" src="https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Media/5.jpg">
