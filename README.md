@@ -49,3 +49,7 @@ Curso do 3º ano de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/
 
 ### Exame:
 * SGBD Paralelo - GRID ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/Exame/SGBD%20Paralelo%20-%20GRID.pdf))
+
+#
+
+*~~ps: ninguém nunca sabe o que é para ser feito nos trabalhos~~*
