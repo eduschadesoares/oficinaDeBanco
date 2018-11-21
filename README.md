@@ -12,11 +12,11 @@ Curso do 3º ano de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/
 #
 
 #### Conteúdo 
-- [x] [1º Bimestre](#1º-bimestre)
-- [x] [2º Bimestre](#2º-bimestre)
-- [x] [3º Bimestre](#3º-bimestre)
-- [x] [4º Bimestre](#4º-bimestre)
-- [x] [Exame](#Exame)
+- [x] [1º Bimestre](#1º-bimestre) (Engenharia Reversa e Backups, Sistema Gerencial de Banco de Dados Distribuído)
+- [x] [2º Bimestre](#2º-bimestre) (Business Intelligence, OrientDB, Web Service, *(SOA, SOAP, WSOL, UDDI, RESTFUL)*)
+- [x] [3º Bimestre](#3º-bimestre) (SGBD para Dispositivos Móveis, Consulta Paralela, Big Data, Big Data 2)
+- [x] [4º Bimestre](#4º-bimestre) (Auditoria, Failover)
+- [x] [Exame](#Exame) (SGBD Paralelo - GRID)
 # 
 
 ### 1º Bimestre:
