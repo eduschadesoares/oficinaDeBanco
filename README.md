@@ -14,7 +14,7 @@ Curso do 3º ano de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/
 #### Conteúdo 
 - [x] [1º Bimestre](#1º-bimestre) (Engenharia Reversa e Backups, Sistema Gerencial de Banco de Dados Distribuído)
 - [x] [2º Bimestre](#2º-bimestre) (Business Intelligence, OrientDB, Web Service, *(SOA, SOAP, WSOL, UDDI, RESTFUL)*)
-- [x] [3º Bimestre](#3º-bimestre) (SGBD para Dispositivos Móveis, Consulta Paralela, Big Data, Big Data 2)
+- [x] [3º Bimestre](#3º-bimestre) (SGBD para Dispositivos Móveis, Consulta Paralela, Otimização de Banco de Dados, Big Data, Big Data 2)
 - [x] [4º Bimestre](#4º-bimestre) (Auditoria, Failover)
 - [x] [Exame](#Exame) (SGBD Paralelo - GRID)
 # 
@@ -36,6 +36,7 @@ Curso do 3º ano de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/
 ### 3º Bimestre:
 * SGBD para Dispositivos Móveis ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/SGBD%20para%20Dispositivos%20M%C3%B3veis.pdf))
 * Consulta Paralela ([Prática]() - [Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/3%C2%BA%20Bimestre/Consulta%20Paralela.pdf))
+* Otimização de Banco de Dados ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/3%C2%BA%20Bimestre/Otimiza%C3%A7%C3%A3o%20de%20Banco%20de%20Dados.pdf))
 * Big Data ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/3%C2%BA%20Bimestre/Big%20Data.pdf))
 * Big Data 2 - GlusterFS ([Teórica](https://github.com/eduschadesoares/oficinaDeBanco/blob/master/Apresenta%C3%A7%C3%B5es%20Te%C3%B3ricas/3%C2%BA%20Bimestre/Big%20Data%202%20-%20GlusterFS.pdf))
 
