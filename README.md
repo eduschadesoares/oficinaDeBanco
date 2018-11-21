@@ -2,7 +2,7 @@
 
 # Oficina de Banco de Dados (3º Ano)
 
-[![Python Repo](https://img.shields.io/badge/python%20repo-up%20to%20date-brightgreen.svg)](https://github.com/eduschadesoares/pythonCodes) [![PostgresqlDOCS](https://img.shields.io/badge/PostgreSQL-docs-blue.svg)](https://www.postgresql.org/docs/) [![MySQLDOCS](https://img.shields.io/badge/MySQL-docs-blue.svg)](https://dev.mysql.com/doc/)
+[![gomesmat Repo](https://img.shields.io/badge/gomesmat-repo-brightgreen.svg)](https://github.com/gomesmat) [![Python Repo](https://img.shields.io/badge/python%20repo-up%20to%20date-brightgreen.svg)](https://github.com/eduschadesoares/pythonCodes) [![PostgresqlDOCS](https://img.shields.io/badge/PostgreSQL-docs-blue.svg)](https://www.postgresql.org/docs/) [![MySQLDOCS](https://img.shields.io/badge/MySQL-docs-blue.svg)](https://dev.mysql.com/doc/)
 
 # 
 
